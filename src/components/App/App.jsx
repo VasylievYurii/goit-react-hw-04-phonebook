@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import Notiflix from 'notiflix';
 import FormPhonebook from 'components/FormPhonebook';
-import Contact from 'components/ContactCard';
+import Contact from 'components/ContactCard/ContactCard';
 import Filter from 'components/Filter';
 import {
   Section,
